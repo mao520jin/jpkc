@@ -29,7 +29,7 @@ public class ResourcesController {
 	/**
 	 * 添加
 	 * 
-	 * @author zhangyi
+	 * @author zhangyiaaaaa
 	 * @2015-11-8
 	 */
 	@RequestMapping("/add")
