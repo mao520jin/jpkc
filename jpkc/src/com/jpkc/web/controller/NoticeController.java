@@ -25,7 +25,7 @@ import com.jpkc.util.VerifyUtil;
  * 公告
  * 
  * @author zhangyi
- * @version 1.0, 2015-11-8
+ * @version 1.0, 2015-11-8ssss
  */
 @Controller
 @RequestMapping("/notice")
