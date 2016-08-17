@@ -2,3 +2,4 @@ hello this is git test file !!!!
 aaaaaaabbb
 这是新的操作，pull；
 hello::::
+你好吗？？？？？冲突
