@@ -25,5 +25,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<input type="file" name="file" /> <input type="submit" value="Submit" /> 
 	</form>
 
+	no is zhangyi branch scan more detail click http://   please.
+
   </body>
 </html>
