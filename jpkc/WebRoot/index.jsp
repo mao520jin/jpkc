@@ -24,7 +24,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<form action="<%=basePath%>/user/upload"  method="post" enctype="multipart/form-data">
 		<input type="file" name="file" /> <input type="submit" value="Submit" /> 
 	</form>
-	
-	this is zhangyi branch ! ! !
+
   </body>
 </html>
